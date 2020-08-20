@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T21:46:37.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="O-iHTzqN9LpwTFy17PBo" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T05:50:52.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="mv80LTbes_cbzdoCiV9T" version="13.6.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="720" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1813" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="60e70716793133e9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="60e70716793133e9-4" target="60e70716793133e9-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="160" />
-              <mxPoint x="250" y="160" />
+              <mxPoint x="440" y="150" />
+              <mxPoint x="490" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="60e70716793133e9-4" value="User registers on merkur-spiel.de , organically or from marketing campaigns&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="140" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-33" value="Did not deposit &lt;br&gt;or play" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="60e70716793133e9-5" target="60e70716793133e9-10" edge="1">
           <mxGeometry x="-0.7778" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="370" y="290" as="targetPoint" />
+            <mxPoint x="610" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-17" value="Did not play but deposited" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="60e70716793133e9-5" target="p6wjPDuyBjO_fwMyvjFD-16">
@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="60e70716793133e9-5" target="60e70716793133e9-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="340" as="targetPoint" />
+            <mxPoint x="810" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-39" value="did not deposited but play money play" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="p6wjPDuyBjO_fwMyvjFD-38">
@@ -42,139 +42,139 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="60e70716793133e9-5" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="220" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="60e70716793133e9-9" target="p6wjPDuyBjO_fwMyvjFD-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-9" value="Email: Welcome bonus reminder" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="100" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="60e70716793133e9-10" target="p6wjPDuyBjO_fwMyvjFD-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-10" value="Email: Game Offerings" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="370" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-1" target="60e70716793133e9-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="160" />
-              <mxPoint x="250" y="160" />
+              <mxPoint x="590" y="150" />
+              <mxPoint x="490" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="220" as="targetPoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="160" />
-              <mxPoint x="250" y="160" />
+              <mxPoint x="590" y="150" />
+              <mxPoint x="490" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-1" value="User comes from XTIP" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-3" target="60e70716793133e9-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="160" />
-              <mxPoint x="250" y="160" />
+              <mxPoint x="740" y="150" />
+              <mxPoint x="490" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-3" value="User comes from Merkur 24, Mbox etc..." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-5" target="60e70716793133e9-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="160" />
-              <mxPoint x="250" y="160" />
+              <mxPoint x="890" y="150" />
+              <mxPoint x="490" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-5" value="User Comes from Spielbank, spielotek etc..." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-8" value="Can we identify these customers separately" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="640" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="880" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-10" value="Instant registration email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="460" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="235" y="170" width="30" height="30" as="geometry" />
+          <mxGeometry x="475" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-12" value="Instant registration email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="370" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="610" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-13" value="Instant registration email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="760" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-14" value="Wait 1 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-16" target="p6wjPDuyBjO_fwMyvjFD-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-16" value="Email: Retail Giant is now coming online" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="235" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="475" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-21" target="p6wjPDuyBjO_fwMyvjFD-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-21" value="Email: Welcome bonus expiration reminder" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-23" target="p6wjPDuyBjO_fwMyvjFD-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="415" y="395" width="30" height="30" as="geometry" />
+          <mxGeometry x="655" y="385" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-27" value="Wait 2 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="430" y="395" width="100" height="30" as="geometry" />
+          <mxGeometry x="670" y="385" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-28" target="p6wjPDuyBjO_fwMyvjFD-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="145" y="425" width="30" height="30" as="geometry" />
+          <mxGeometry x="385" y="415" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-30" target="p6wjPDuyBjO_fwMyvjFD-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-30" value="Email: deposit bonus offer" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-31" value="Wait 4 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-33" target="p6wjPDuyBjO_fwMyvjFD-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-35" value="Wait 3 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="290" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="530" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0.1;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-36" target="p6wjPDuyBjO_fwMyvjFD-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-36" value="Email: Bonus activation&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="550" width="70" height="40" as="geometry" />
+          <mxGeometry x="500" y="540" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-42" value="2nd deposit but &lt;br&gt;1 real money stake day" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-40" target="p6wjPDuyBjO_fwMyvjFD-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-40" target="p6wjPDuyBjO_fwMyvjFD-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="580" as="targetPoint" />
+            <mxPoint x="310" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="500" />
+              <mxPoint x="300" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -184,59 +184,59 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-40" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="480" width="60" height="40" as="geometry" />
+          <mxGeometry x="370" y="470" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-45" value="1 deposit no real money play" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-43" target="p6wjPDuyBjO_fwMyvjFD-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-43" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="265" y="460" width="60" height="40" as="geometry" />
+          <mxGeometry x="505" y="450" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-47" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-46" target="p6wjPDuyBjO_fwMyvjFD-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-46" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="455" width="60" height="40" as="geometry" />
+          <mxGeometry x="640" y="445" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-50" target="p6wjPDuyBjO_fwMyvjFD-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-50" value="Email: deposit bonus offer" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-52" target="p6wjPDuyBjO_fwMyvjFD-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="415" y="610" width="30" height="30" as="geometry" />
+          <mxGeometry x="655" y="600" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-53" value="Wait 3 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="420" y="610" width="100" height="30" as="geometry" />
+          <mxGeometry x="660" y="600" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-54" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-55" target="p6wjPDuyBjO_fwMyvjFD-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="730" as="targetPoint" />
+            <mxPoint x="670" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-55" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="660" width="60" height="40" as="geometry" />
+          <mxGeometry x="640" y="650" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="810" as="targetPoint" />
+            <mxPoint x="670" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-59" value="Email: Welcome bonus expiration reminder" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-66" target="p6wjPDuyBjO_fwMyvjFD-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="600" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-67" value="Wait 3 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="285" y="610" width="100" height="30" as="geometry" />
+          <mxGeometry x="525" y="600" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-68" target="p6wjPDuyBjO_fwMyvjFD-71">
           <mxGeometry relative="1" as="geometry" />
@@ -245,48 +245,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-68" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="265" y="660" width="60" height="40" as="geometry" />
+          <mxGeometry x="505" y="650" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-71" target="p6wjPDuyBjO_fwMyvjFD-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-71" value="Email: Balance Reminder" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="730" width="85" height="40" as="geometry" />
+          <mxGeometry x="492.5" y="720" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-75" target="p6wjPDuyBjO_fwMyvjFD-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="145" y="640" width="30" height="30" as="geometry" />
+          <mxGeometry x="385" y="630" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-80" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2nd deposit but&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1 real money stake day&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-76" target="p6wjPDuyBjO_fwMyvjFD-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-76" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="690" width="60" height="40" as="geometry" />
+          <mxGeometry x="370" y="680" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-78" value="Wait 5 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150" y="640" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-79" target="p6wjPDuyBjO_fwMyvjFD-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-79" value="SMS: which game to try today" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="770" width="70" height="30" as="geometry" />
+          <mxGeometry x="365" y="760" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-82" target="p6wjPDuyBjO_fwMyvjFD-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="415" y="810" width="30" height="30" as="geometry" />
+          <mxGeometry x="655" y="800" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-83" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-84" target="p6wjPDuyBjO_fwMyvjFD-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="930" as="targetPoint" />
+            <mxPoint x="670" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-84" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="860" width="60" height="40" as="geometry" />
+          <mxGeometry x="640" y="850" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-85" target="p6wjPDuyBjO_fwMyvjFD-119">
           <mxGeometry relative="1" as="geometry">
@@ -294,16 +294,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-85" value="Email: Welcome bonus expiration reminder" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="940" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="930" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-87" value="Wait 5 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="433" y="810" width="100" height="30" as="geometry" />
+          <mxGeometry x="673" y="800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-89" target="p6wjPDuyBjO_fwMyvjFD-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="830" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="820" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-92" target="p6wjPDuyBjO_fwMyvjFD-93">
           <mxGeometry relative="1" as="geometry" />
@@ -312,159 +312,159 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-92" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="265" y="880" width="60" height="40" as="geometry" />
+          <mxGeometry x="505" y="870" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.097;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-93" target="p6wjPDuyBjO_fwMyvjFD-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-93" value="Email: Balance Reminder" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="950" width="85" height="40" as="geometry" />
+          <mxGeometry x="492.5" y="940" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-95" value="Wait 8 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="300" y="830" width="100" height="30" as="geometry" />
+          <mxGeometry x="540" y="820" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-97" target="p6wjPDuyBjO_fwMyvjFD-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-97" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="145" y="828" width="30" height="30" as="geometry" />
+          <mxGeometry x="385" y="818" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-98" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2nd deposit but&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1 real money stake day&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-99" target="p6wjPDuyBjO_fwMyvjFD-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-99" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="878" width="60" height="40" as="geometry" />
+          <mxGeometry x="370" y="868" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-100" target="p6wjPDuyBjO_fwMyvjFD-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-100" value="Survey: how to improve" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="958" width="70" height="30" as="geometry" />
+          <mxGeometry x="365" y="948" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-103" value="Wait 8 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150" y="838" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="828" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-105" target="p6wjPDuyBjO_fwMyvjFD-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-105" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="45" y="640" width="30" height="30" as="geometry" />
+          <mxGeometry x="285" y="630" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-106" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2nd deposit but&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1 real money stake day&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-107" target="p6wjPDuyBjO_fwMyvjFD-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-107" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="690" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="680" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-108" target="p6wjPDuyBjO_fwMyvjFD-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-108" value="Email: Check welcome bonus" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="770" width="70" height="30" as="geometry" />
+          <mxGeometry x="265" y="760" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-110" value="Wait 5 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="50" y="640" width="100" height="30" as="geometry" />
+          <mxGeometry x="290" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-112" target="p6wjPDuyBjO_fwMyvjFD-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="45" y="829" width="30" height="30" as="geometry" />
+          <mxGeometry x="285" y="819" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-113" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2nd deposit but&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1 real money stake day&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-114" target="p6wjPDuyBjO_fwMyvjFD-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-114" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="879" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="869" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-115" target="p6wjPDuyBjO_fwMyvjFD-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-115" value="Survey: how to improve" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="959" width="70" height="30" as="geometry" />
+          <mxGeometry x="265" y="949" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-116" value="Wait 8 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="50" y="839" width="100" height="30" as="geometry" />
+          <mxGeometry x="290" y="829" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-119" target="p6wjPDuyBjO_fwMyvjFD-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-119" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1010" width="30" height="30" as="geometry" />
+          <mxGeometry x="655" y="1000" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-120" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-121" target="p6wjPDuyBjO_fwMyvjFD-122">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="1130" as="targetPoint" />
+            <mxPoint x="670" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-121" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1060" width="60" height="40" as="geometry" />
+          <mxGeometry x="640" y="1050" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-122" value="Email: Welcome expired" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1130" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-123" value="Wait 10 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1010" width="100" height="30" as="geometry" />
+          <mxGeometry x="660" y="1000" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-128" target="p6wjPDuyBjO_fwMyvjFD-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-128" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1020" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="1010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-129" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-130" target="p6wjPDuyBjO_fwMyvjFD-131">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="1140" as="targetPoint" />
+            <mxPoint x="535" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-130" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1070" width="60" height="40" as="geometry" />
+          <mxGeometry x="505" y="1060" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-131" value="Email: Welcome expired" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1140" width="70" height="40" as="geometry" />
+          <mxGeometry x="500" y="1130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-132" value="Wait 10 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1020" width="100" height="30" as="geometry" />
+          <mxGeometry x="525" y="1010" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-135" target="p6wjPDuyBjO_fwMyvjFD-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="145" y="1020" width="30" height="30" as="geometry" />
+          <mxGeometry x="385" y="1010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-136" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-137" target="p6wjPDuyBjO_fwMyvjFD-138">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="1140" as="targetPoint" />
+            <mxPoint x="400" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-137" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1070" width="60" height="40" as="geometry" />
+          <mxGeometry x="370" y="1060" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-138" value="Email: Welcome expired" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1140" width="70" height="40" as="geometry" />
+          <mxGeometry x="370" y="1130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-140" value="Wait 10 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="1020" width="100" height="30" as="geometry" />
+          <mxGeometry x="392.5" y="1010" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-142" target="p6wjPDuyBjO_fwMyvjFD-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-142" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1020" width="30" height="30" as="geometry" />
+          <mxGeometry x="285" y="1010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-143" value="no deposit&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="p6wjPDuyBjO_fwMyvjFD-144" target="p6wjPDuyBjO_fwMyvjFD-145">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="1140" as="targetPoint" />
+            <mxPoint x="300" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-144" value="User Actions" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1070" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="1060" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-145" value="Email: Welcome expired" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1140" width="70" height="40" as="geometry" />
+          <mxGeometry x="270" y="1130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6wjPDuyBjO_fwMyvjFD-147" value="Wait 10 day" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1020" width="100" height="30" as="geometry" />
+          <mxGeometry x="290" y="1010" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
